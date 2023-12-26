@@ -1,0 +1,6 @@
+NIK: 3525011711086058, Nama: Kemal, Terduga: Agung, Alamat Terduga: Bukit Tinggi, Gejala: pusing
+NIK: 3525016005650004, Nama: Rizky, Terduga: Altaf, Alamat Terduga: Jakarta, Gejala: Demam
+NIK: 12, Nama: ff, Terduga: df, Alamat Terduga: dd, Gejala: d
+NIK: 1, Nama: 2, Terduga: 3, Alamat Terduga: 4, Gejala: 5
+NIK: 0, Nama: k, Terduga: f, Alamat Terduga: f, Gejala: d
+NIK: 0, Nama: 2, Terduga: 2, Alamat Terduga: 2, Gejala: 2
